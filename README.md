@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m Pallavi Pannu
+- 🌎 My areas of interest are : Machine Learning, Deep Learning, Data Science, Artificial Intelligence.
+- 🏢 I’m currently working with KPMG and learning on how to apply Machine Learning in real world.
+- 📝 I like to write and I am a data science blogger at medium where I write articles about data science, You can read or listen some of my writings here (https://medium.com/@pallavipannu678) and follow me on Youtube (datascienceworks) and on Instagram (https://www.instagram.com/datascience.works)
+- 📧 Contact: I can be reached at pallavipannu678@gmail.com.
