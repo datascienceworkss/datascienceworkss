@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 👋 I’m Pallavi Pannu.
 - 🌎 My areas of interest are : Machine Learning, Deep Learning, Data Science, NLP, Artificial Intelligence.
-- 🏢 I’m currently working with KPMG and learning on how to apply Machine Learning in real world.
+- 🏢 I’m currently working with IBM as an AI Engineer.
 - 📝 I like to write and I am a data science blogger at medium where I write articles about data science.
 -  You can read or listen some of my writings here (https://medium.com/@pallavipannu678)
 -  You can reach me on Youtube (https://www.youtube.com/channel/UCPEkU9Odxifb4uNKkD187SQ). I share my knowledge on machine learning, Data Science, Statistics on this channel.
